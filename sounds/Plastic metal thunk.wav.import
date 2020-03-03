@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Plastic metal thunk.wav-3d685d42e71f3d5f4afaf92e1634d187.sample"
+
+[deps]
+
+source_file="res://sounds/Plastic metal thunk.wav"
+dest_files=[ "res://.import/Plastic metal thunk.wav-3d685d42e71f3d5f4afaf92e1634d187.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

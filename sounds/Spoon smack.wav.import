@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Spoon smack.wav-52ef45014acb6298643907ba5d8eb6a1.sample"
+
+[deps]
+
+source_file="res://sounds/Spoon smack.wav"
+dest_files=[ "res://.import/Spoon smack.wav-52ef45014acb6298643907ba5d8eb6a1.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
